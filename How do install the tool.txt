@@ -1,0 +1,22 @@
+##############
+## T E R M U X ##
+#############
+
+-1 apt update
+-2 apt upgrade
+-3 pkg install python
+-4 cd /sdcard/Download
+-5 cd DDOS
+-6 pip install -r requirements.txt
+-7 python bc.py
+________________________
+
+Extract the complete ddos ​​file, transfer it to the 
+Download file, and follow the steps BY DEVCO
+
+________________________
+
+█░█░█▀▄░█▀█ 
+█▄█░█▄█░█▀▀░
+
+🖕🖕🖕🖕📍🖕📍🖕📍🖕🖕📍🖕
